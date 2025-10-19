@@ -1,0 +1,10 @@
+{
+  "name": "berita-api-abyan",
+  "version": "1.0.0",
+  "description": "API berita buatan Abyan Harits Prasetyo",
+  "main": "api/berita.js",
+  "scripts": {
+    "start": "node api/berita.js"
+  },
+  "dependencies": {}
+}
